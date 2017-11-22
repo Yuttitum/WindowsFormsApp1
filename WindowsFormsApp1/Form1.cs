@@ -16,5 +16,8 @@ namespace WindowsFormsApp1
         {
             InitializeComponent();
         }
-    }
+        public void testMaster()
+        {
+        }
+    }    
 }
