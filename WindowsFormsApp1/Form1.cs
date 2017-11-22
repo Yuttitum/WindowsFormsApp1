@@ -18,6 +18,16 @@ namespace WindowsFormsApp1
         }
         public void testMaster()
         {
+
         }
-    }    
+
+        public void test()
+        {
+
+        }
+        public void test2()
+        {
+
+        }
+    }
 }
