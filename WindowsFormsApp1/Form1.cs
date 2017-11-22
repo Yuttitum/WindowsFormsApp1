@@ -16,19 +16,8 @@ namespace WindowsFormsApp1
         {
             InitializeComponent();
         }
-
-        private void button1_Click(object sender, EventArgs e)
+        public void testMaster()
         {
-
         }
-
-        public void test()
-        {
-
-        }
-        public void test2()
-        {
-
-        }
-    }
+    }    
 }
